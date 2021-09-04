@@ -1,5 +1,5 @@
 # Panel_Data_Analysis_in_Python
-This repository covers the topics of panel data analysis using Python.
+This repository covers the topics of panel data analysis in Python. 
 
 ## Contents:
 
@@ -8,3 +8,5 @@ This repository covers the topics of panel data analysis using Python.
 3. Implementing Panel Data Model
 - How does the income affects crime rate?
 - Explain change in scrap rate by firms' grant status.
+
+Copyright © 2021 Norman Lo
