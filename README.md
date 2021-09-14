@@ -1,4 +1,4 @@
-# Panel_Data_Analysis_in_Python
+# Panel Data Analysis in Python
 This repository covers the topics of panel data analysis in Python. 
 
 ## Contents:
